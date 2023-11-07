@@ -19,3 +19,7 @@ R
 "bankaccount-service-dev.properties,1\c\1c5b99b334843dfe1375ff0b55e04d73e139aa2e
 O
 customer-service-dev.properties,1\7\17ef664bfbf091f926d4f69ce7113f597c5f7179
+T
+$transactions-service-prod.properties,1\a\1aab55018912d35088d6b8f4f9d46ed55785efb3
+S
+#transactions-service-dev.properties,6\2\6219aa862c9f148506693f87b248b84335d68e7b
